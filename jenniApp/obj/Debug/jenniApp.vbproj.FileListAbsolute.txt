@@ -1,0 +1,16 @@
+C:\Users\eliav\source\repos\jenniApp\jenniApp\bin\Debug\jenniApp.exe.config
+C:\Users\eliav\source\repos\jenniApp\jenniApp\bin\Debug\jenniApp.exe
+C:\Users\eliav\source\repos\jenniApp\jenniApp\bin\Debug\jenniApp.pdb
+C:\Users\eliav\source\repos\jenniApp\jenniApp\bin\Debug\jenniApp.xml
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.vbproj.AssemblyReference.cache
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.Form1.resources
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.FormAgregarEquipo.resources
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.FormEquipos.resources
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.FormMantenimiento.resources
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.FormPrincipal.resources
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.Resources.resources
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.vbproj.GenerateResource.cache
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.vbproj.CoreCompileInputs.cache
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.exe
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.xml
+C:\Users\eliav\source\repos\jenniApp\jenniApp\obj\Debug\jenniApp.pdb
